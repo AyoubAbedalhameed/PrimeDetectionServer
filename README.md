@@ -1,2 +1,2 @@
 # PrimeDetectionServer
-Multithreadded TCP client server simple prime detection
+Multithreadded TCP client server performs simple prime detection.
